@@ -121,4 +121,6 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 <img src="/images/Result_withDOB.png" width="500px">  
 先の項のサンプルプログラムの出力結果と比較して応答値がしっかりと目標値に追従していることがわかります。
 
+参考：[外乱オブザーバによるロバスト・モーションコントロール](https://www.jstage.jst.go.jp/article/jrsj1983/11/4/11_4_486/_article/-char/ja/)
+
 ## FAQ
