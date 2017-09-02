@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="SystemClock_Config" alt="" coords="116,5,263,32"/>
+<area shape="rect" id="node4" href="$gpio_8c.html#ac724e431d2af879252de35615be2bdea" title="MX_GPIO_Init" alt="" coords="136,56,243,83"/>
+<area shape="rect" id="node5" href="$dma_8c.html#a323249dac769f9855c10b4ec9446b707" title="MX_DMA_Init" alt="" coords="137,107,241,133"/>
+<area shape="rect" id="node6" href="$usart_8c.html#a052088fe5bb3f807a4b2502e664fd4fd" title="MX_USART2_UART_Init" alt="" coords="104,157,275,184"/>
+<area shape="rect" id="node7" href="$i2c_8c.html#ada6e763cfa4108a8d24cd27b75f2f489" title="MX_I2C1_Init" alt="" coords="138,208,241,235"/>
+<area shape="rect" id="node8" href="$tim_8c.html#a7912f2916786a2c33cb6fb8259ade58c" title="MX_TIM3_Init" alt="" coords="137,309,241,336"/>
+<area shape="rect" id="node10" href="$adc_8c.html#acccd58aa70215a6b184ad242312ffd0c" title="MX_ADC1_Init" alt="" coords="134,259,245,285"/>
+<area shape="rect" id="node11" href="$main_8c.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="116,360,263,387"/>
+<area shape="rect" id="node3" href="$main_8c.html#a829116a51f1db1a72ebd1120f60719d5" title="This function is executed in case of error occurrence. " alt="" coords="345,208,455,235"/>
+<area shape="rect" id="node9" href="$tim_8c.html#a708f19bbc41b292fccf38f2d9796c46a" title="HAL_TIM_MspPostInit" alt="" coords="323,309,477,336"/>
+</map>

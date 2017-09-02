@@ -1,0 +1,75 @@
+Configuration	DCMotorControlShieldV1_0
+STM32CubeMX 	4.22.0
+Date	09/02/2017
+MCU	STM32F411RETx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+ADC1	IN0	ADC1_IN0	PA0-WKUP
+ADC1	IN1	ADC1_IN1	PA1
+ADC1	IN4	ADC1_IN4	PA4
+ADC1	IN8	ADC1_IN8	PB0
+ADC1	IN11	ADC1_IN11	PC1
+I2C1	I2C	I2C1_SCL	PB8
+I2C1	I2C	I2C1_SDA	PB9
+SYS	SysTick	SYS_VS_Systick	VP_SYS_VS_Systick
+TIM3	PWM Generation CH2	TIM3_CH2	PC7
+USART2	Asynchronous	USART2_RX	PA3
+USART2	Asynchronous	USART2_TX	PA2
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PC13-ANTI_TAMP	GPIO_EXTI13	B1 [Blue PushButton]
+3	PC14-OSC32_IN*	RCC_OSC32_IN	
+4	PC15-OSC32_OUT*	RCC_OSC32_OUT	
+5	PH0 - OSC_IN*	RCC_OSC_IN	
+6	PH1 - OSC_OUT*	RCC_OSC_OUT	
+9	PC1	ADC1_IN11	Param4
+14	PA0-WKUP	ADC1_IN0	Current
+15	PA1	ADC1_IN1	Param1
+16	PA2	USART2_TX	USART_TX
+17	PA3	USART2_RX	USART_RX
+20	PA4	ADC1_IN4	Param2
+21	PA5	GPIO_Output	LD2 [Green Led]
+26	PB0	ADC1_IN8	Param3
+29	PB10	GPIO_Output	EncErr
+38	PC7	TIM3_CH2	PWM
+41	PA8	GPIO_Output	AIN1
+42	PA9	GPIO_Output	AIN2
+46	PA13*	SYS_JTMS-SWDIO	TMS
+49	PA14*	SYS_JTCK-SWCLK	TCK
+56	PB4	GPIO_Output	SysLED
+57	PB5	GPIO_Input	SVON
+58	PB6	GPIO_Input	SysPush
+61	PB8	I2C1_SCL	I2C_SCL
+62	PB9	I2C1_SDA	I2C_SDA
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : DCMotorControlShieldV1_0
+Project Folder : C:\SW4STM32\DCMotorControlShield\V1_0\Rev_1_0\Nucleo-F411RE\DCMotorControlShieldV1_0
+Toolchain / IDE : SW4STM32
+Firmware Package Name and Version : STM32Cube FW_F4 V1.16.0
+
+
+Code Generation Settings : 
+STM32Cube Firmware Library Package : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : Yes
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : Balanced Size/Speed
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+<map id="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Inc/main.h" name="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Inc/main.h">
+<area shape="rect" id="node2" href="$main_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/main.c" alt="" coords="1445,206,1660,247"/>
+<area shape="rect" id="node3" href="$_motor_driver___t_b6612_8c.html" title="Source file of Motor driver IC TB6612. " alt="" coords="2400,199,2615,255"/>
+<area shape="rect" id="node4" href="$adc_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/adc.h" alt="" coords="729,102,944,143"/>
+<area shape="rect" id="node8" href="$dma_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/dma.h" alt="" coords="968,102,1183,143"/>
+<area shape="rect" id="node11" href="$gpio_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/gpio.h" alt="" coords="1207,102,1421,143"/>
+<area shape="rect" id="node14" href="$i2c_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/i2c.h" alt="" coords="1445,102,1660,143"/>
+<area shape="rect" id="node16" href="$stm32f4xx__hal__conf_8h.html" title="HAL configuration file. " alt="" coords="1975,95,2189,151"/>
+<area shape="rect" id="node17" href="$tim_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/tim.h" alt="" coords="2213,102,2428,143"/>
+<area shape="rect" id="node19" href="$usart_8h.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Inc/usart.h" alt="" coords="1736,102,1951,143"/>
+<area shape="rect" id="node5" href="$adc_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/adc.c" alt="" coords="729,206,944,247"/>
+<area shape="rect" id="node6" href="$control_8c.html" title="Source file of control functions. " alt="" coords="252,206,467,247"/>
+<area shape="rect" id="node7" href="$_current_sense_amp___i_n_a181_8c.html" title="Source file of current sensing amplifier INA181. " alt="" coords="5,199,228,255"/>
+<area shape="rect" id="node9" href="$dma_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/dma.c" alt="" coords="491,206,705,247"/>
+<area shape="rect" id="node10" href="$i2c_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/i2c.c" alt="" coords="968,206,1183,247"/>
+<area shape="rect" id="node12" href="$gpio_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/gpio.c" alt="" coords="1207,206,1421,247"/>
+<area shape="rect" id="node13" href="$usart_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/usart.c" alt="" coords="1923,206,2137,247"/>
+<area shape="rect" id="node15" href="$_rotary_encoder___a_s5600_8c.html" title="Source file of 12&#45;Bit programmable contactless potentiometer AS5600. " alt="" coords="1684,199,1899,255"/>
+<area shape="rect" id="node18" href="$tim_8c.html" title="Nucleo&#45;F411RE/DCMotorControl\lShieldV1_0/Src/tim.c" alt="" coords="2161,206,2376,247"/>
+</map>

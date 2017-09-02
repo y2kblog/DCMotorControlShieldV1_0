@@ -1,0 +1,6 @@
+<map id="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/i2c.c" name="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/i2c.c">
+<area shape="rect" id="node2" href="$i2c_8h.html" title="i2c.h" alt="" coords="17,95,67,121"/>
+<area shape="rect" id="node5" href="$gpio_8h.html" title="gpio.h" alt="" coords="92,95,149,121"/>
+<area shape="rect" id="node6" href="$dma_8h.html" title="dma.h" alt="" coords="174,95,233,121"/>
+<area shape="rect" id="node4" href="$main_8h.html" title="main.h" alt="" coords="149,169,210,196"/>
+</map>

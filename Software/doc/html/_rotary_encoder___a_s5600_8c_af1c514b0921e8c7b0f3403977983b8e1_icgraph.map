@@ -1,0 +1,6 @@
+<map id="updateRawAngleCount" name="updateRawAngleCount">
+<area shape="rect" id="node2" href="$_rotary_encoder___a_s5600_8h.html#a3e98cbe8ff9b33ab8add9449b7597e75" title="Initialize encoder AS5600. " alt="" coords="278,5,365,32"/>
+<area shape="rect" id="node5" href="$_rotary_encoder___a_s5600_8c.html#a94d19b0090fc15b608aca9c71dec078f" title="When non&#45;blocking mode memory read of AS5600 is completed, this function is called. " alt="" coords="209,56,433,83"/>
+<area shape="rect" id="node3" href="$freertos_8c.html#a8e46ec5344eae48b8f8c59968663e70c" title="High priority task that executes major loop control sequence. " alt="" coords="481,5,592,32"/>
+<area shape="rect" id="node4" href="$main_8h.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="640,5,787,32"/>
+</map>

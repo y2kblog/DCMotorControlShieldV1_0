@@ -1,0 +1,5 @@
+<map id="MinorControlLoop" name="MinorControlLoop">
+<area shape="rect" id="node2" href="$_current_sense_amp___i_n_a181_8c.html#aabe1a3d496b452ed93eeae90eb9429ac" title="Read current response. " alt="" coords="177,5,327,32"/>
+<area shape="rect" id="node3" href="$_motor_driver___t_b6612_8c.html#a5928e750eecfd37b2811288bc5c1fbb8" title="Set voltage to motor. " alt="" coords="193,56,311,83"/>
+<area shape="rect" id="node4" href="$_motor_driver___t_b6612_8c.html#a3dbe0de32dc79ed90383e576c9866b15" title="Set PWM duty. " alt="" coords="375,56,473,83"/>
+</map>

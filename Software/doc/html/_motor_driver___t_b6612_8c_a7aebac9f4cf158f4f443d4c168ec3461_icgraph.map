@@ -1,0 +1,4 @@
+<map id="stopMotor" name="stopMotor">
+<area shape="rect" id="node2" href="$freertos_8c.html#a8e46ec5344eae48b8f8c59968663e70c" title="High priority task that executes major loop control sequence. " alt="" coords="133,5,244,32"/>
+<area shape="rect" id="node3" href="$main_8h.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="292,5,439,32"/>
+</map>

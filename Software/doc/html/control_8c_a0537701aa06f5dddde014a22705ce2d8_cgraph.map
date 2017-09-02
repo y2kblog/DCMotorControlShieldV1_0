@@ -1,0 +1,6 @@
+<map id="MajorControlLoop" name="MajorControlLoop">
+<area shape="rect" id="node2" href="$control_8c.html#a08a727a9046fd0f143dc4333b8b21df3" title="Set position control mode and config parameters. " alt="" coords="199,5,309,32"/>
+<area shape="rect" id="node3" href="$_rotary_encoder___a_s5600_8c.html#abf8826a89905c3ad235658f4e802fd42" title="Read position response. " alt="" coords="177,56,331,83"/>
+<area shape="rect" id="node4" href="$_motor_driver___t_b6612_8c.html#a5928e750eecfd37b2811288bc5c1fbb8" title="Set voltage to motor. " alt="" coords="195,107,313,133"/>
+<area shape="rect" id="node5" href="$_motor_driver___t_b6612_8c.html#a3dbe0de32dc79ed90383e576c9866b15" title="Set PWM duty. " alt="" coords="379,107,477,133"/>
+</map>

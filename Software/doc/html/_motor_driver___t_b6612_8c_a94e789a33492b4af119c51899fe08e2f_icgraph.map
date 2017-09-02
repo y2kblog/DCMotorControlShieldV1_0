@@ -1,0 +1,5 @@
+<map id="stopPWM" name="stopPWM">
+<area shape="rect" id="node2" href="$_motor_driver___t_b6612_8h.html#a7aebac9f4cf158f4f443d4c168ec3461" title="Stop motor. " alt="" coords="133,5,213,32"/>
+<area shape="rect" id="node3" href="$freertos_8c.html#a8e46ec5344eae48b8f8c59968663e70c" title="High priority task that executes major loop control sequence. " alt="" coords="261,5,372,32"/>
+<area shape="rect" id="node4" href="$main_8h.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="420,5,567,32"/>
+</map>

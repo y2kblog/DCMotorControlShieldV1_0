@@ -1,0 +1,4 @@
+<map id="HAL_I2C_MspInit" name="HAL_I2C_MspInit">
+<area shape="rect" id="node2" href="$i2c_8c.html#a55d80f29ae27b8444941757a16a7dde3" title="I2C1_SoftReset" alt="" coords="180,5,296,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a829116a51f1db1a72ebd1120f60719d5" title="This function is executed in case of error occurrence. " alt="" coords="183,56,293,83"/>
+</map>

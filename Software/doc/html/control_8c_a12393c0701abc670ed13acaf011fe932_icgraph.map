@@ -1,0 +1,4 @@
+<map id="MinorControlLoop" name="MinorControlLoop">
+<area shape="rect" id="node2" href="$freertos_8c.html#ac1666e9640e320476c8314de46d8f39a" title="Realtime task that executes minor loop control sequence. " alt="" coords="177,5,288,32"/>
+<area shape="rect" id="node3" href="$main_8h.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="336,5,483,32"/>
+</map>

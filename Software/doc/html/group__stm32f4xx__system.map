@@ -1,0 +1,10 @@
+<map id="Stm32f4xx_system" name="Stm32f4xx_system">
+<area shape="rect" id="node1" href="$group___s_t_m32_f4xx___system___private___macros.html" title="STM32F4xx_System_Private\l_Macros" alt="" coords="301,5,495,47"/>
+<area shape="rect" id="node2" href="$group___s_t_m32_f4xx___system___private___function_prototypes.html" title="STM32F4xx_System_Private\l_FunctionPrototypes" alt="" coords="301,71,495,112"/>
+<area shape="rect" id="node3" href="$group___s_t_m32_f4xx___system___private___functions.html" title="STM32F4xx_System_Private\l_Functions" alt="" coords="301,136,495,177"/>
+<area shape="rect" id="node5" href="$group___s_t_m32_f4xx___system___private___types_definitions.html" title="STM32F4xx_System_Private\l_TypesDefinitions" alt="" coords="301,201,495,243"/>
+<area shape="rect" id="node7" href="$group___s_t_m32_f4xx___system___private___variables.html" title="STM32F4xx_System_Private\l_Variables" alt="" coords="301,267,495,308"/>
+<area shape="rect" id="node8" href="$group___s_t_m32_f4xx___system___private___includes.html" title="STM32F4xx_System_Private\l_Includes" alt="" coords="301,332,495,373"/>
+<area shape="rect" id="node9" href="$group___s_t_m32_f4xx___system___private___defines.html" title="STM32F4xx_System_Private\l_Defines" alt="" coords="301,397,495,439"/>
+<area shape="rect" id="node6" href="$group___c_m_s_i_s.html" title="CMSIS" alt="" coords="5,209,71,235"/>
+</map>

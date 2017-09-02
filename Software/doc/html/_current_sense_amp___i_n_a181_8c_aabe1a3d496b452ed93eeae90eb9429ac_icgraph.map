@@ -1,0 +1,5 @@
+<map id="readCurrentResponse" name="readCurrentResponse">
+<area shape="rect" id="node2" href="$control_8c.html#a12393c0701abc670ed13acaf011fe932" title="Major control loop (Period : 50[us]) " alt="" coords="203,5,327,32"/>
+<area shape="rect" id="node3" href="$freertos_8c.html#ac1666e9640e320476c8314de46d8f39a" title="Realtime task that executes minor loop control sequence. " alt="" coords="375,5,485,32"/>
+<area shape="rect" id="node4" href="$main_8h.html#abade755e13d07c10889ae83143656158" title="MX_FREERTOS_Init" alt="" coords="533,5,680,32"/>
+</map>

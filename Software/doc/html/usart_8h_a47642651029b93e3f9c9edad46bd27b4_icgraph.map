@@ -1,0 +1,10 @@
+<map id="_Error_Handler" name="_Error_Handler">
+<area shape="rect" id="node2" href="$adc_8h.html#acccd58aa70215a6b184ad242312ffd0c" title="MX_ADC1_Init" alt="" coords="193,5,303,32"/>
+<area shape="rect" id="node4" href="$adc_8c.html#ac3139540667c403c5dfd37a99c610b1c" title="HAL_ADC_MspInit" alt="" coords="181,56,315,83"/>
+<area shape="rect" id="node5" href="$i2c_8h.html#ada6e763cfa4108a8d24cd27b75f2f489" title="MX_I2C1_Init" alt="" coords="197,107,299,133"/>
+<area shape="rect" id="node6" href="$i2c_8c.html#a08b1eb7b7be5b94395127e2a33b1b67e" title="HAL_I2C_MspInit" alt="" coords="185,157,311,184"/>
+<area shape="rect" id="node7" href="$main_8c.html#a70af21c671abfcc773614a9a4f63d920" title="SystemClock_Config" alt="" coords="175,208,321,235"/>
+<area shape="rect" id="node8" href="$tim_8h.html#a7912f2916786a2c33cb6fb8259ade58c" title="MX_TIM3_Init" alt="" coords="196,259,300,285"/>
+<area shape="rect" id="node9" href="$usart_8h.html#a052088fe5bb3f807a4b2502e664fd4fd" title="MX_USART2_UART_Init" alt="" coords="163,309,333,336"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="381,208,432,235"/>
+</map>
