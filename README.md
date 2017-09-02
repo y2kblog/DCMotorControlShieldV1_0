@@ -104,7 +104,7 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 `static void configCurrentControl(bool isEnabled, float P_Gain, float I_Gain)`  |  電流マイナーループの設定<br>引数は順に、電流マイナーループの使用可否、Pゲイン、Iゲイン
 `void SerialCommunicationTask(void const *argument)`  |  低優先度のUARTによるシリアル通信タスク<br>この関数内の`printf`関数を書き換えることでNucleo状のST-Linkを介してPCに各種パラメータ(例：指令値、応答値、ゲイン)を送信できる
 
-その他の詳細はサンプルプログラムの説明書(本ページの"Software/doc/html/index.html")を参照してください。
+その他の詳細はサンプルプログラムの説明書(本ページの"docｓ/html/index.html")を参照してください。
 
 ### 出力結果例
 サンプルプログラムは位置指令モード、位置指令値は矩形波と正弦波を周期的に繰り返すようなプログラムになっており、シリアルプロッタを用いて以下に示すようにステップ応答と1[Hz]の周波数応答を得ることができます。  

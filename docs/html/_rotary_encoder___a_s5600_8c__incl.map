@@ -1,0 +1,5 @@
+<map id="Software/Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/RotaryEncoder_AS5600.c" name="Software/Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/RotaryEncoder_AS5600.c">
+<area shape="rect" id="node5" href="$_rotary_encoder___a_s5600_8h.html" title="Header file of 12&#45;Bit programmable contactless potentiometer AS5600. " alt="" coords="280,109,453,136"/>
+<area shape="rect" id="node6" href="$i2c_8h.html" title="i2c.h" alt="" coords="477,109,528,136"/>
+<area shape="rect" id="node8" href="$main_8h.html" title="main.h" alt="" coords="529,184,591,211"/>
+</map>

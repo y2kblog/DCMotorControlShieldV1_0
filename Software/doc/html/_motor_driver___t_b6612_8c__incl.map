@@ -1,6 +1,0 @@
-<map id="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/MotorDriver_TB6612.c" name="Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Src/MotorDriver_TB6612.c">
-<area shape="rect" id="node4" href="$stm32f4xx__ll__gpio_8h.html" title="Header file of GPIO LL module. " alt="" coords="181,109,320,136"/>
-<area shape="rect" id="node6" href="$_motor_driver___t_b6612_8h.html" title="Header file of Motor driver IC TB6612. " alt="" coords="345,109,498,136"/>
-<area shape="rect" id="node7" href="$tim_8h.html" title="tim.h" alt="" coords="523,109,573,136"/>
-<area shape="rect" id="node9" href="$main_8h.html" title="main.h" alt="" coords="580,184,641,211"/>
-</map>

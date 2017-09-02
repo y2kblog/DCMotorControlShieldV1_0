@@ -1,0 +1,6 @@
+<map id="Software/Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Inc/dma.h" name="Software/Nucleo&#45;F411RE/DCMotorControlShieldV1_0/Inc/dma.h">
+<area shape="rect" id="node2" href="$adc_8c.html" title="Software/Nucleo&#45;F411RE\l/DCMotorControlShieldV1\l_0/Src/adc.c" alt="" coords="5,109,179,165"/>
+<area shape="rect" id="node3" href="$dma_8c.html" title="Software/Nucleo&#45;F411RE\l/DCMotorControlShieldV1\l_0/Src/dma.c" alt="" coords="203,109,376,165"/>
+<area shape="rect" id="node4" href="$i2c_8c.html" title="Software/Nucleo&#45;F411RE\l/DCMotorControlShieldV1\l_0/Src/i2c.c" alt="" coords="400,109,573,165"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="Software/Nucleo&#45;F411RE\l/DCMotorControlShieldV1\l_0/Src/main.c" alt="" coords="597,109,771,165"/>
+</map>
