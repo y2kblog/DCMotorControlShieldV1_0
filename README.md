@@ -57,10 +57,11 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 - マブチ DCモーター FA-130RA  
   ※ **モーターマウント/2段プーリー付き** のものをご用意ください。
 
-## 組立手順
-
+## 組立手順  
 #### 1. 内容物の確認  
 内容物が全て入っているか確認します。特にネオジム磁石は見落としがちなので注意してください。
+組立に必要な全物品は以下の図になります。
+<img src="/images/Requirements.jpg" width="350px">
 
 #### 2. モーターマウントの取り付け  
 マブチ DCモーター FA-130RAに入っているモータマウントを基板裏側から、ナット - 基板 - モータマウント - 平ワッシャ - 小ネジ の順になるように固定してください。このとき、モータマウントの向きに注意してください。  
@@ -78,7 +79,12 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 モータをモータマウントに取り付け、モータの配線をターミナルに取り付けます。
 配線がショートしないよう被覆が剥かれた部分をニッパ等で適切な長さに切った後、ターミナルに配線を挿しこんで固定します。
 このとき、ターミナルに取り付ける配線の色に注意してください。  
-<img src="/images/Assemble_Motor.jpg" width="350px">
+<img src="/images/Assemble_Motor.jpg" width="300px">
+
+
+#### 6. シールドのスタック  
+Nucleo上のArduinoコネクタにシールドをスタックすると組立完了です。  
+<img src="/images/Stack_Nucleo.jpg" width="400px">
 
 ## サンプルプログラム
 - SW4STM32  
@@ -87,15 +93,21 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 - mbed  
   [DCMotorControlShieldV1_0](https://developer.mbed.org/users/y2kb/code/DCMotorControlShieldV1_0/)
 
-なお、HALライブラリ、FreeRTOS、CMSIS-OS等のライブラリ以外の
+※HALライブラリ、FreeRTOS、CMSIS-OS等のライブラリ以外の
 プログラムはMITライセンスです。
+
+コンパイル済みのバイナリを"Software\Nucleo-F411RE\Nucleo-F411RE_Sample.bin"に用意しています。NucleoをPCに接続し、USBデバイスとして認識されているNucleoにこのバイナリファイルをドラッグ＆ドロップすることでサンプルプログラムを書き込むことができ、簡単に動作確認が行えます。
+
+#### デモ
+![サンプルプログラムのデモ](images/demo.gif)
 
 ## サンプルプログラムの利用方法
 
-大半のユーザーはモータ制御の設定とパラメータ出力に関わる"Src/control.c"内の以下の関数の参照・変更で十分だと思われるのでこれらの関数の説明を以下の表にまとめます。
+大半のユーザーはモータ制御の設定とパラメータ出力に関わる"Src/control.c"内の以下の変数・関数の参照や変更で十分だと思われるのでこれらの説明を以下の表にまとめます。
 
-関数名  |  説明
+変数/関数名  |  説明
 --|--
+`float Param1, Param2, Param3, Param4;` |  シールド上の4つの可変抵抗の値がそれぞれ格納されています。値の範囲は0.0～1.0であり、時計回りに回すと値が増加します。
 `static void MajorControlLoop(void)` |  加速度メジャーループ(制御周期：200[us])<br>ユーザーはこの関数内で位置/速度/トルク制御といったモードや指令値・ゲインを変更できます。<br>また、電流制御の使用可否やゲインも設定できます。
 `static void MinorControlLoop(void)`  |  電流マイナーループ(制御周期：50[us])
 `static void PositionControl(float PosCmd, float VelCmd, float P_Gain, float I_Gain, float D_Gain)`  |  位置制御モードに設定する関数<br>引数は順に、位置指令値、速度指令値(位置指令値の微分値)、Pゲイン、Iゲイン、Dゲイン

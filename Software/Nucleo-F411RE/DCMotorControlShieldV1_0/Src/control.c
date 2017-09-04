@@ -332,11 +332,12 @@ static inline void MajorControlLoop(void)
         PosCmd = 0.0f;
         VelCmd = 0.0f;
     }
-    PositionControl(PosCmd * (0.1f+Param1), VelCmd * (0.1f+Param1),
+    /*PositionControl(PosCmd * (0.1f+Param1), VelCmd * (0.1f+Param1),
             (0.5f+Param2) * Kp_p_DEFAULT,
             (0.5f+Param3) * Ki_p_DEFAULT,
-            (0.5f+Param4) * Kd_p_DEFAULT);
-    //PositionControl(PosCmd, VelCmd, Kp_p_DEFAULT, Ki_p_DEFAULT, Kd_p_DEFAULT);
+            (0.5f+Param4) * Kd_p_DEFAULT);*/
+    PositionControl(PosCmd, VelCmd, Kp_p_DEFAULT, Ki_p_DEFAULT, Kd_p_DEFAULT);
+
     //VelocityControl(10.0f, Kp_v_DEFAULT, Ki_v_DEFAULT);
     //TorqueControl(0.0002f);
 
