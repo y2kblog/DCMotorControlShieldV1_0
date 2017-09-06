@@ -56,13 +56,13 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 ## 内容物
 <img src="/images/Package_contents.jpg" width="600px">  
 
-**<font color="Red">※ なべ小ネジ・平ワッシャは予め一体になっている「座金組み込みねじ」の場合があります。</font>**  
+**<span style="color: red; ">※ なべ小ネジ・平ワッシャは予め一体になっている「座金組み込みねじ」の場合があります。</span>**  
 
 ## 別途ご用意いただく物
 - **Nucleo-64ボード**  
   動作確認済：[NUCLEO-F411RE](http://www.st.com/en/evaluation-tools/nucleo-f411re.html)
 - **マブチ DCモーター FA-130RA**  
-  **<font color="Red">※ 「モーターベース・二段式プーリー付」 のものをご用意ください。**  
+  **<span style="color: red; ">※ 「モーターベース・二段式プーリー付」 のものをご用意ください。</span>**  
 
 ## 組立手順  
 #### 1. 内容物の確認  
