@@ -62,7 +62,7 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 - **Nucleo-64ボード**  
   動作確認済：[NUCLEO-F411RE](http://www.st.com/en/evaluation-tools/nucleo-f411re.html)  
   (購入先：[スイッチサイエンス](https://www.switch-science.com/catalog/2098/) 等)  
-  
+
 - **マブチ DCモーター FA-130RA**  
   **<span style="color: red; ">※ 「モーターベース・二段式プーリー付」 のものをご用意ください。</span>**  
   (購入先：[ヨドバシカメラ](http://www.yodobashi.com/product/100000001001281039/)、[千石電商](http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0A3G) 等)  
