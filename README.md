@@ -47,8 +47,8 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 - 指令値や応答値、ゲインなどのパラメータはNucleo上のST-Linkを通じてPCに送ることができ、ターミナル([Tera Term](https://osdn.net/projects/ttssh2/))やシリアルプロッタ(例：[Arduino IDE](https://www.arduino.cc/en/Main/Software)、[CPLT](http://www.datatecno.co.jp/cplt/cplt-download.htm))を使用することでリアルタイムにパラメータを表示可能
 - 制御系が不安定になりモータが暴走した際は自動的にモータと制御演算を停止する発散防止機能を搭載
 
-## 販売
-検討中
+## 販売  
+[スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/3459/)
 
 ## 概要図
 <img src="/images/Overview.jpg" width="600px">
