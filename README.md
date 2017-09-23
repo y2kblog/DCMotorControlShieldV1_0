@@ -109,7 +109,8 @@ Nucleo上のArduinoコネクタにシールドをスタックすると組立完�
 コンパイル済みのバイナリを"Software\Nucleo-F411RE\Nucleo-F411RE_Sample.bin"に用意しています。NucleoをPCに接続し、USBデバイスとして認識されているNucleoにこのバイナリファイルをドラッグ＆ドロップすることでサンプルプログラムを書き込むことができ、簡単に動作確認が行えます。
 
 #### デモ動画
-![サンプルプログラムのデモ](images/demo.gif)  
+<!-- ![サンプルプログラムのデモ](images/demo.gif)  -->
+[![動作デモ](http://img.youtube.com/vi/jYBmyjHmTwM/0.jpg)](http://www.youtube.com/watch?v=jYBmyjHmTwM)
 
 サンプルプログラムでは制御ON時に位置指令値と位置応答値を出力しています。
 この値をリアルタイムで確認するため、上の動画では
