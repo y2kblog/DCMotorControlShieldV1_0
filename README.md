@@ -49,6 +49,7 @@ DCモータ制御シールドV1.0は、ブラシ付きDCモータFA-130RAの位�
 
 ## 販売  
 [スイッチサイエンス委託販売ページ](https://www.switch-science.com/catalog/3459/)
+※大量注文や在庫に関する問い合わせは[こちら](mailto:info.y2kb@gmail.com)までご連絡ください。  
 
 ## 概要図
 <img src="/images/Overview.jpg" width="600px">
@@ -97,6 +98,10 @@ Nucleo上のArduinoコネクタにシールドをスタックすると組立完�
 <img src="/images/Stack_Nucleo.jpg" width="400px">
 
 ## サンプルプログラム
+
+### 説明書  
+https://y2kblog.github.io/DCMotorControlShieldV1_0/
+
 #### SW4STM32  
   本ページの"Software"フォルダ内にあります
 
